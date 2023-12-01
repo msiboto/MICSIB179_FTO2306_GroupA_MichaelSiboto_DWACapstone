@@ -1,8 +1,14 @@
-# React + Vite
+# DWA18: Final Capstone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Build a podcast application
 
-Currently, two official plugins are available:
+### About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Build a podcast app allowing users to browse various podcast shows, play episodes, and track their favorite episodes
+
+### **Requirements**
+
+
+**1** Javascript or,
+**2** Any technology/framework set you are comfortable with, for example, Next.js, Create React App (CRA) or Vue.js.
+**3** You are recommended to use TypeScript; however, you are not required to use TypeScript if you do not feel comfortable using it yet.
